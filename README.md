@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @KJYoung
 - 👀 I’m interested in Biology & Computer Science(Engineering)
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning(& interested in)
+> Bioinformatics. Cryo-EM. Cryo-ET.
+> Computer Science & Engineering
+> ML / DL
+> Stocks & Crypto & Blockchain
+> etc...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
 
 <!---
 KJYoung/KJYoung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
