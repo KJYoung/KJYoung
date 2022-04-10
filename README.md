@@ -10,16 +10,15 @@
     * etc...   
 - 🔮 Studied
     * Java   
-    * C   
-    * C++   
+    * C, C++   
     * Python   
     * Verilog   
     * OCaml   
     * Javascript(HTML, CSS, ReactJS, MongoDB, ...)   
     * Just looked through : C#   
-    * In the future? : Golang, Rust, Other JS(NextJS, ...), ...   
+    * In the future? : Golang, Rust, Other JS(NextJS, ...), Haskell, ...   
 - 📫 How to reach me   
-      * jykim157@snu.ac.kr
+    * jykim157@snu.ac.kr
 
 * Undergraduate internship during 2020 winter semester in Laboratory of Development & Disease Modeling @SNU Biology department
 * Undergraduate internship during 2021 summer semester in [COGNITIVE CIRCUITRY LAB](https://cocila.net/) @SNU Biology department
