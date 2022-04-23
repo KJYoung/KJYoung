@@ -9,14 +9,14 @@
     * Investment : Stocks & Crypto & Blockchain   
     * etc...   
 - 🔮 Studied
-    * Java   
+    * Java, Android application   
     * C, C++   
     * Python   
-    * Verilog   
+    * Verilog, RISC-V assembly   
     * OCaml   
     * Javascript(HTML, CSS, ReactJS, MongoDB, ...)   
     * Just looked through : C#   
-    * In the future? : Golang, Rust, Other JS(NextJS, ...), Haskell, ...   
+    * In the future? : Golang, Rust, Other JS(NextJS, ...), Haskell, Flutter, Kotlin, ...   
 - 📫 How to reach me   
     * jykim157@snu.ac.kr
 
