@@ -8,21 +8,28 @@
     * ML / DL   
     * Investment : Stocks & Crypto & Blockchain   
     * etc...   
-- 🔮 Studied
+- 🔮 Languages
     * Java, Android application   
     * C, C++   
     * Python   
     * Verilog, RISC-V assembly   
     * OCaml   
-    * Javascript(HTML, CSS, ReactJS, MongoDB, ...)   
+    * Javascript(HTML, CSS, ReactJS, MongoDB, DJango, ...)   
     * Just looked through : C#   
-    * In the future? : Golang, Rust, Other JS(NextJS, ...), Haskell, Flutter, Kotlin, ...   
+    * In the future?
+         - Golang, Rust, Haskell
+         - Typescript, Rescript, Other JS(NextJS, NestJS, ...)
+         - Flutter, Kotlin
+         - And many others...
 - 📫 How to reach me   
     * jykim157@snu.ac.kr
 
-* Undergraduate internship during 2020 winter semester in Laboratory of Development & Disease Modeling @SNU Biology department
-* Undergraduate internship during 2021 summer semester in [COGNITIVE CIRCUITRY LAB](https://cocila.net/) @SNU Biology department
-* Undergraduate internship during 2021 winter - 2022 summer in [Steinegger Lab](https://steineggerlab.com/) @SNU Biology department
+* Undergraduate internship during 2020 winter semester    
+      - Laboratory of Development & Disease Modeling   @SNU Biology department   
+* Undergraduate internship during 2021 summer semester   
+      - [COGNITIVE CIRCUITRY LAB](https://cocila.net/) @SNU Biology department   
+* Undergraduate internship during 2021 winter - 2022 summer semester
+      - [Steinegger Lab](https://steineggerlab.com/)   @SNU Biology department   
 
 
 
