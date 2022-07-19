@@ -5,14 +5,15 @@
 - 🌱 I’m currently learning(& interested in)   
     * Bioinformatics(Biology). Cryo-EM. Cryo-ET.   
     * Computer Science & Engineering   
-    * ML / DL   
+    * ML / DL / Generative model(for simulation, art)   
     * Investment : Stocks & Crypto & Blockchain   
+    * Startup, management.   
     * etc...   
-- 🔮 Languages
+- 🔮 Programming Languages
     * Java, Android application   
     * C, C++   
     * Python   
-    * Verilog, RISC-V assembly   
+    * Shell script, Verilog, RISC-V assembly   
     * OCaml   
     * Javascript(HTML, CSS, ReactJS, MongoDB, DJango, ...)   
     * Just looked through : C#   
@@ -28,7 +29,7 @@
       - Laboratory of Development & Disease Modeling   @SNU Biology department   
 * Undergraduate internship during 2021 summer semester   
       - [COGNITIVE CIRCUITRY LAB](https://cocila.net/) @SNU Biology department   
-* Undergraduate internship during 2021 winter - 2022 summer semester
+* Undergraduate internship during 2021 winter - 2022 summer semester   
       - [Steinegger Lab](https://steineggerlab.com/)   @SNU Biology department   
 
 
