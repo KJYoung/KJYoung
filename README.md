@@ -6,16 +6,22 @@
     * Bioinformatics(Biology). Cryo-EM. Cryo-ET.   
     * Computer Science & Engineering   
     * ML / DL / Generative model(for simulation, art)   
+      * Adversarial patches for avoiding real-time object detection.   
+      * CryoEM, CryoET denoising.   
     * Investment : Stocks & Crypto & Blockchain   
     * Startup, management.   
     * etc...   
-- 🔮 Programming Languages
+- 🔮 Programming Languages(or Experiences)
     * Java, Android application   
     * C, C++   
     * Python   
     * Shell script, Verilog, RISC-V assembly   
     * OCaml   
-    * Javascript(HTML, CSS, ReactJS, MongoDB, DJango, ...)   
+    * Web Development   
+      * HTML, CSS, Javascript   
+      * NodeJS, ReactJS   
+      * Django   
+      * MongoDB, Pug, ...   
     * Just looked through : C#   
     * In the future?
          - Golang, Rust, Haskell
