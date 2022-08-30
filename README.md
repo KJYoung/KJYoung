@@ -35,9 +35,12 @@
       - Laboratory of Development & Disease Modeling   @SNU Biology department   
 * Undergraduate internship during 2021 summer semester   
       - [COGNITIVE CIRCUITRY LAB](https://cocila.net/) @SNU Biology department   
+      - Modify the program(blip) to make the electric current output with C++   
 * Undergraduate internship during 2021 winter - 2022 summer semester   
       - [Steinegger Lab](https://steineggerlab.com/)   @SNU Biology department   
-
+      - Construct the *docker* images for the integrated CryoET analyses.   
+      - Transplant [warp](http://www.warpem.com/warp/) partially into linux. Warp : Based on C# .NET framework.   
+      - Improve the existing denoiser for cryoEM/ET images.   
 
 
 <!---
