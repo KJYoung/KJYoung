@@ -12,8 +12,7 @@
     * Startup, management.   
     * etc...   
 - 🔮 Programming Languages(or Experiences)
-    * Java, Android application   
-    * C, C++   
+    * C, C++, C#, Java, Android application   
     * Python   
     * Shell script, Verilog, RISC-V assembly   
     * OCaml   
@@ -29,7 +28,7 @@
          - Flutter, Kotlin
          - And many others...
 - 📫 How to reach me   
-    * jykim157@snu.ac.kr
+    * Email : jykim157@snu.ac.kr
 
 * Undergraduate internship during 2020 winter semester    
       - Laboratory of Development & Disease Modeling   @SNU Biology department   
@@ -41,7 +40,8 @@
       - Construct the *docker* images for the integrated CryoET analyses.   
       - Transplant [warp](http://www.warpem.com/warp/) partially into linux. Warp : Based on C# .NET framework.   
       - Improve the existing denoiser for cryoEM/ET images.   
-
+* Undergraduate internship during 2022 fall semester   
+      - [Programming Research Laboratory (ROPAS)](http://ropas.snu.ac.kr/)
 
 <!---
 KJYoung/KJYoung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
