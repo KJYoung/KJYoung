@@ -17,14 +17,14 @@
     * Shell script, Verilog, RISC-V assembly   
     * OCaml   
     * Web Development   
-      * HTML, CSS, Javascript   
+      * HTML, CSS, Javascript, Typescript, Rescript   
       * NodeJS, ReactJS   
       * Django   
       * MongoDB, Pug, ...   
     * Just looked through : C#   
     * In the future?
          - Golang, Rust, Haskell
-         - Typescript, Rescript, Other JS(NextJS, NestJS, ...)
+         - Web framework(or library)? ex. NextJS, NestJS, ...
          - Flutter, Kotlin
          - And many others...
 - 📫 How to reach me   
@@ -41,7 +41,8 @@
       - Transplant [warp](http://www.warpem.com/warp/) partially into linux. Warp : Based on C# .NET framework.   
       - Improve the existing denoiser for cryoEM/ET images.   
 * Undergraduate internship during 2022 fall semester   
-      - [Programming Research Laboratory (ROPAS)](http://ropas.snu.ac.kr/)
+      - [Programming Research Laboratory (ROPAS)](http://ropas.snu.ac.kr/) @SNU CSE department   
+      - (TBD)
 
 <!---
 KJYoung/KJYoung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
