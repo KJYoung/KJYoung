@@ -44,8 +44,8 @@
       - [Programming Research Laboratory (ROPAS)](http://ropas.snu.ac.kr/) @SNU CSE department   
       - (TBD)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJYoung)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJYoung&include_all_commits=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJYoung)](https://github.com/KJYoung)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJYoung&include_all_commits=true)](https://github.com/KJYoung)
 <!---
 KJYoung/KJYoung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
