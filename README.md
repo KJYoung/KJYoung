@@ -12,21 +12,17 @@
     * Startup, management.   
     * etc...   
 - 🔮 Programming Languages(or Experiences)
-    * C, C++, C#, Java, Android application   
-    * Python   
+    * C, C++, C#, Java, Python, Android application   
     * Shell script, Verilog, RISC-V assembly   
     * OCaml   
     * Web Development   
       * HTML, CSS, Javascript, Typescript, Rescript   
-      * NodeJS, ReactJS   
-      * Django   
+      * NodeJS, ReactJS, Django   
       * MongoDB, Pug, ...   
-    * Just looked through : C#   
     * In the future?
-         - Golang, Rust, Haskell
-         - Web framework(or library)? ex. NextJS, NestJS, ...
-         - Flutter, Kotlin
-         - And many others...
+         - Golang, Rust, Haskell, Closure   
+         - Flutter, Kotlin   
+         - And many others...   
 - 📫 How to reach me   
     * Email : jykim157@snu.ac.kr
 
