@@ -18,13 +18,13 @@
     * Web Development   
       * HTML, CSS, Javascript, Typescript, Rescript   
       * NodeJS, ReactJS, Django   
-      * MongoDB, Pug, ...   
     * In the future?
          - Golang, Rust, Haskell, Closure   
          - Flutter, Kotlin   
          - And many others...   
 - 📫 How to reach me   
     * Email : jykim157@snu.ac.kr
+    * LinkedIn : [Link](https://www.linkedin.com/in/%EA%B9%80%EC%A4%80%EC%98%81-%ED%95%99%EC%83%9D-%EC%83%9D%EB%AA%85%EA%B3%BC%ED%95%99%EB%B6%80-551369256/)
 
 * Undergraduate internship during 2020 winter semester    
       - Laboratory of Development & Disease Modeling   @SNU Biology department   
