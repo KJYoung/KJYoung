@@ -38,7 +38,7 @@
       - Improve the existing denoiser for cryoEM/ET images.   
 * Undergraduate internship during 2022 fall semester   
       - [Programming Research Laboratory (ROPAS)](http://ropas.snu.ac.kr/) @SNU CSE department   
-      - (TBD)
+      - About Rescript Type System, GenType
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJYoung)](https://github.com/KJYoung)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJYoung&include_all_commits=true)](https://github.com/KJYoung)
