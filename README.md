@@ -8,8 +8,7 @@
     * ML / DL / Generative model(for simulation, art)   
       * Adversarial patches for avoiding real-time object detection.   
       * CryoEM, CryoET denoising.   
-    * Investment : Stocks & Crypto & Blockchain   
-    * Startup, management.   
+    * Financial & Management : Stocks & Crypto & Blockchain, Startup.   
     * etc...   
 - 🔮 Programming Languages(or Experiences)
     * C, C++, C#, Java, Python, Android application   
@@ -19,9 +18,7 @@
       * HTML, CSS, Javascript, Typescript, Rescript   
       * NodeJS, ReactJS, Django   
     * In the future?
-         - Golang, Rust, Haskell, Closure   
-         - Flutter, Kotlin   
-         - And many others...   
+         - Golang, Rust, Haskell, Closure, Flutter, Kotlin, NextJS, ...   
 - 📫 How to reach me   
     * Email : jykim157@snu.ac.kr
     * LinkedIn : [Link](https://www.linkedin.com/in/%EA%B9%80%EC%A4%80%EC%98%81-%ED%95%99%EC%83%9D-%EC%83%9D%EB%AA%85%EA%B3%BC%ED%95%99%EB%B6%80-551369256/)
