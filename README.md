@@ -17,6 +17,7 @@
     * Web Development   
       * HTML, CSS, Javascript, Typescript, Rescript   
       * NodeJS, ReactJS, Django   
+      * 2022Fall Semester's TeamProject[2022SWPP_FALL](https://github.com/swsnu/swppfall2022-team4/)
     * In the future?
          - Golang, Rust, Haskell, Closure, Flutter, Kotlin, NextJS, ...   
 - 📫 How to reach me   
