@@ -2,23 +2,16 @@
 - 👋 Hi, I’m @KJYoung
     * SNU(2019-2022)
     * ADD(2023-2026, ROND)
-- 👀 I’m interested in Biology & Computer Science(Engineering)
+- 👀 I’m interested in Computer Science(Engineering) & Biology
 - 🌱 I’m currently learning(& interested in)   
-    * Bioinformatics(Biology). Cryo-EM. Cryo-ET.   
-    * Computer Science & Engineering   
     * ML / DL / Generative model(for simulation, art)   
       * Adversarial patches for avoiding real-time object detection.   
       * CryoEM, CryoET denoising.   
     * Financial & Management : Stocks & Crypto & Blockchain, Startup.   
+    * Bioinformatics(Biology). Cryo-EM. Cryo-ET.   
     * etc...   
-- 🔮 Programming Languages(or Experiences)
-    * C, C++, C#, Java, Python, Android application   
-    * Shell script, Verilog, RISC-V assembly   
-    * OCaml   
-    * Web Development   
-      * HTML, CSS, Javascript, Typescript, Rescript   
-      * NodeJS, ReactJS, Django   
-      * 2022Fall Semester's TeamProject[2022SWPP_FALL](https://github.com/swsnu/swppfall2022-team4/)
+- Additional.
+    * 2022Fall Semester's TeamProject[2022SWPP_FALL](https://github.com/swsnu/swppfall2022-team4/)
     * In the future?
          - Golang, Rust, Haskell, Closure, Flutter, Kotlin, NextJS, ...   
 - 📫 How to reach me   
