@@ -1,4 +1,4 @@
-## Homepage(beta) : [Link](https://kjyoung.github.io/Homepage/)
+## [Homepage(beta)](https://kjyoung.github.io/Homepage/)
 - 👋 Hi, I’m @KJYoung
     * SNU(2019-2022)
     * ADD(2023-2026, ROND)
@@ -11,7 +11,7 @@
     * Bioinformatics(Biology). Cryo-EM. Cryo-ET.   
     * etc...   
 - Additional.
-    * 2022Fall Semester's TeamProject[2022SWPP_FALL](https://github.com/swsnu/swppfall2022-team4/)
+    * 2022Fall Semester's Team Project  [2022SWPP_FALL](https://github.com/swsnu/swppfall2022-team4/)
     * In the future?
          - Golang, Rust, Haskell, Closure, Flutter, Kotlin, NextJS, ...   
 - 📫 How to reach me   
