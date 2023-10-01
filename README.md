@@ -14,8 +14,7 @@
     * ...   
 - Additional.
     * 2022Fall Semester's Team Project  [2022SWPP_FALL](https://github.com/swsnu/swppfall2022-team4/)
-    * In the future?
-         - Golang, Rust, Haskell, Closure, Flutter, Kotlin, NextJS, ...   
+    * More detailed information can be found in [Homepage](https://kjyoung.github.io/Homepage/)
 - 📫 How to reach me   
     * Email : jykim157@snu.ac.kr
     * LinkedIn : [Link](https://www.linkedin.com/in/%EA%B9%80%EC%A4%80%EC%98%81-%ED%95%99%EC%83%9D-%EC%83%9D%EB%AA%85%EA%B3%BC%ED%95%99%EB%B6%80-551369256/)
